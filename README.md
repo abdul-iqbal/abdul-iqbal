@@ -1,57 +1,46 @@
 # Abdul Basit Iqbal
 
-## AI Solutions Engineer | Founder & AI Solutions Architect
+## Full Stack Software Engineer | PHP, Laravel, APIs & AI Automation
 
-I help organizations transform business challenges into AI-powered software solutions, automation platforms, enterprise applications, and intelligent workflows.
+I build production web platforms, Laravel business systems, APIs, automation workflows, dashboards, and customer-facing products. I work across discovery, solution architecture, database-backed implementation, integrations, deployment, and ongoing improvement.
 
-With 15+ years of experience delivering technology solutions, I specialize in combining business strategy, solution architecture, and AI-assisted software development to rapidly build production-ready applications.
+**Based in:** Buffalo, NY | **Work authorization:** U.S. Green Card Holder | **Open to:** Remote, hybrid, and onsite opportunities
 
-## What I Build
+## Core Stack
 
-- AI-Powered Business Applications
-- AI Chatbots & AI Agents
-- AI Receptionists
-- CRM Systems
-- SaaS Platforms
-- Enterprise Software
-- Web Applications
-- Mobile Applications
-- Workflow Automation Systems
+**Backend:** PHP, Laravel, REST APIs, MySQL, PostgreSQL, authentication, webhooks, third-party integrations  
+**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, responsive UI  
+**Delivery:** Git/GitHub, Docker, CI/CD concepts, testing, production support  
+**AI & Automation:** OpenAI API, RAG patterns, AI agents, n8n, CRM/ERP workflows
 
-## Core Expertise
+## Selected Laravel Projects
 
-- Artificial Intelligence (AI)
-- OpenAI Codex
-- Solution Architecture
-- Business Process Automation
-- Enterprise Software Development
-- Product Development
-- Technical Leadership
-- API Integrations
-- UX/UI Design
+| Project | Industry | Live platform |
+| --- | --- | --- |
+| Buy Dubai | Real estate marketplace | [buy-dubai.ae](https://buy-dubai.ae/) |
+| Whitewill | Luxury real estate | [whitewill.ae](https://whitewill.ae/) |
+| Cache | B2B commerce / smart home | [cache.ae](https://cache.ae/) |
+| Final | Equipment rental and booking | [final.sa](https://final.sa/) |
+| E7 Group | Corporate services | [e7group.ae](https://e7group.ae/) |
+| PixFrame | Creative / media | [pixframe.ae](https://pixframe.ae/) |
+| Maxart | Creative services | [maxart.ae](https://www.maxart.ae/) |
+| Zulekha Hospitals | Healthcare | [zulekhahospitals.com](https://www.zulekhahospitals.com/) |
+| Imtiaz Developments | Real estate development | [imtiaz.ae](https://imtiaz.ae/) |
+| PureDocs | Business setup services | [puredocsservices.com](https://puredocsservices.com/) |
+| AI Capital | Real estate | [aicapital.ae](https://aicapital.ae/) |
+| FAM Living | Hospitality / rentals | [famliving.com](https://famliving.com/) |
 
-## Technologies
+> Client source code and sensitive architecture details are private. I can discuss relevant delivery scope, architecture, APIs, data models, integrations, and technical trade-offs in a technical interview.
 
-Python • React • Next.js • TypeScript • PHP • Laravel • Flutter • React Native • PostgreSQL • MySQL • WordPress
+## Current Focus
 
-## Notable Achievements
-
-- Delivered 1,100+ projects across startups, enterprises, and government organizations.
-- Personally architected and developed enterprise-grade platforms using OpenAI Codex.
-- Built AI-powered automation systems, CRM platforms, customer engagement solutions, and intelligent business applications.
-
-## Current Projects
-
-- AutoLedger AI
-- ERPNext AI Layer
-- AI Receptionist Platform
-- AI CRM Assistant
-- Enterprise Automation Solutions
+- Laravel and PHP business platforms
+- AI-enabled workflow automation and customer-support systems
+- Full stack product delivery, APIs, dashboards, and integrations
+- Maintainable, production-ready software with clear documentation
 
 ## Connect
 
-LinkedIn:
-https://www.linkedin.com/in/abdul-iqbal-aiarchitect/
-
-Website:
-https://www.gcc-marketing.com
+- LinkedIn: [linkedin.com/in/abdul-iqbal-aiarchitect](https://www.linkedin.com/in/abdul-iqbal-aiarchitect/)
+- Website: [gcc-marketing.com](https://www.gcc-marketing.com)
+- Email: abdul.cyberpro@gmail.com
