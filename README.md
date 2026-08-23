@@ -5,7 +5,7 @@
 I translate business requirements into production-ready AI-enabled systems. My work combines solution architecture, hands-on software delivery, business-process automation, APIs, data-backed applications, and human-controlled AI agents.
 
 **Based in:** Buffalo, New York, USA  
-**Work authorization:** U.S. Green Card holder  
+**Work authorization:** Fully authorized to work in the USA  
 **Open to:** AI Solutions Architect, AI Solutions Engineer, Forward Deployed Engineer, and Technical Product Architect opportunities
 
 ## What I Build
