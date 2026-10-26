@@ -1,67 +1,77 @@
-# Abdul Basit Iqbal
+# Abdul B. Iqbal
 
-## AI Solutions Architect | AI-Native Builder | Founder, AI with Abdul
+## Forward Deployed Engineer | Full Stack Software Engineer | Applied AI | Python / GCP
 
-I translate business requirements into production-ready AI-enabled systems. My work combines solution architecture, hands-on software delivery, business-process automation, APIs, data-backed applications, and human-controlled AI agents.
+I turn ambiguous operational problems into secure, production-oriented software. I work directly with business leaders, product teams, engineers, and operational stakeholders from discovery and workflow analysis through architecture, hands-on development, integration, deployment, adoption, and production support.
 
-**Based in:** Buffalo, New York, USA  
-**Work authorization:** Fully authorized to work in the USA  
-**Open to:** AI Solutions Architect, AI Solutions Engineer, Forward Deployed Engineer, and Technical Product Architect opportunities
+**Based in:** Buffalo, New York, USA<br>
+**Work authorization:** U.S. Green Card holder — no sponsorship required<br>
+**Open to:** Forward Deployed Engineer, Full Stack Software Engineer, Applied AI Engineer, Product Engineer, and Solutions Engineer opportunities
 
 ## What I Build
 
-- **Managed AI Employees:** role-specific AI agents with approved knowledge, permitted systems, controlled actions, human escalation, and measurable operating outcomes
-- **AI-enabled business systems:** lead management, intake, scheduling, document processing, reporting, and customer-support workflows
-- **Solution architecture:** requirements discovery, system boundaries, integration design, data models, reliability controls, and build-vs-buy decisions
-- **Production software:** web applications, dashboards, APIs, automations, and third-party integrations from design through deployment
+- **Applied AI systems:** conversational AI, RAG applications, governed agents, structured outputs, validation controls, approvals, and human escalation
+- **Production software:** web applications, operational portals, dashboards, APIs, automation workflows, and customer-facing platforms
+- **Business-system integrations:** CRM, ERP, help desk, ticketing, messaging, webhooks, knowledge sources, and data-backed workflows
+- **End-to-end solutions:** requirements discovery, user journeys, data flows, architecture, implementation, testing, deployment, observability, and handoff
 
-## Architecture & Engineering Toolkit
+## Engineering Toolkit
 
-- **AI & automation:** OpenAI API, RAG patterns, AI agents, n8n, CRM/ERP workflows, human-in-the-loop approvals
-- **Backend & integrations:** PHP, Laravel, REST APIs, MySQL, PostgreSQL, authentication, webhooks, third-party services
-- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, responsive interfaces
-- **Delivery:** Git/GitHub, Docker, CI/CD concepts, testing, deployment, production support, AI-assisted development with OpenAI Codex
+- **Core strengths:** Python, Google Cloud Platform, Vertex AI-oriented solution patterns, REST APIs, SQL, data processing, and cloud integration
+- **AI engineering:** OpenAI API, LLM applications, RAG, agent and tool orchestration, prompt engineering, evaluation concepts, and human-in-the-loop controls
+- **Full stack:** JavaScript, TypeScript, React, Next.js, Node.js, PHP, Laravel, HTML, CSS, and responsive interfaces
+- **Data and systems:** PostgreSQL, MySQL, MongoDB, database design, authentication, webhooks, CRM/ERP integration, and workflow automation
+- **Delivery:** Git, GitHub, Docker, CI/CD concepts, testing, troubleshooting, production support, OpenAI Codex, and AI-assisted development
 
-## Selected Architecture & Delivery Evidence
+## Selected Delivery Evidence
 
 ### AI with Abdul
 
-Founder-led practice helping small businesses deploy human-controlled, 24/7 Managed AI Employees for clearly defined roles.
-
-- Website: [AIwithAbdul.com](https://aiwithabdul.com)
-- Current build: [Novardium / AI with Abdul website](https://github.com/abdul-iqbal/novardium)
+Through [AIwithAbdul.com](https://aiwithabdul.com), I help professional-services and growing service businesses build smarter operations with practical AI, workflow automation, Google Cloud, and custom software. Solutions are designed around approved knowledge, controlled access, accountable human decisions, observable processes, and measurable outcomes.
 
 ### GCC Marketing Enterprise Platform
 
-I personally architected and developed a production platform of more than 2,350 pages using AI-assisted development workflows. The work includes custom theme architecture, dynamic pricing calculators, inquiry-management dashboards, content systems, automation, performance optimization, and production deployment.
+I architected and developed a production platform containing more than 2,350 pages using AI-assisted development workflows. The platform includes reusable components, custom theme architecture, dynamic pricing calculators, database-backed inquiry workflows, dashboards, automation rules, system integrations, performance optimization, and production deployment.
 
 - Live platform: [gcc-marketing.com](https://www.gcc-marketing.com)
+- Engineering overview: [gcc-marketing-enterprise-platform](https://github.com/abdul-iqbal/gcc-marketing-enterprise-platform)
 
-### Selected Software Platforms
+### AutoLedger AI
 
-| Project | Business domain | Live platform |
-| --- | --- | --- |
-| Buy Dubai | Real estate marketplace | [buy-dubai.ae](https://buy-dubai.ae/) |
-| Whitewill | Luxury real estate | [whitewill.ae](https://whitewill.ae/) |
-| Cache | B2B commerce / smart home | [cache.ae](https://cache.ae/) |
-| Final | Equipment rental and booking | [final.sa](https://final.sa/) |
-| E7 Group | Corporate services | [e7group.ae](https://e7group.ae/) |
-| Zulekha Hospitals | Healthcare | [zulekhahospitals.com](https://www.zulekhahospitals.com/) |
-| Imtiaz Developments | Real estate development | [imtiaz.ae](https://imtiaz.ae/) |
+An applied-AI finance-operations concept for turning invoices, receipts, emails, and voice inputs into controlled extraction, validation, approval, exception-handling, and ERP-posting workflows.
 
-> Client source code and sensitive architecture remain private. I can discuss relevant delivery scope, system design, APIs, data models, integrations, constraints, and technical tradeoffs in an interview.
+- Project: [autoledger-ai](https://github.com/abdul-iqbal/autoledger-ai)
+
+### AI Receptionist
+
+An AI-enabled receptionist concept covering appointment booking, lead qualification, customer support, structured handoffs, and controlled escalation to people.
+
+- Project: [ai-receptionist](https://github.com/abdul-iqbal/ai-receptionist)
+
+### API and Business-System Showcases
+
+- [Laravel Booking API](https://github.com/abdul-iqbal/laravel-booking-api) — booking and scheduling workflows
+- [Laravel Service Desk API](https://github.com/abdul-iqbal/laravel-service-desk-api) — support-ticket workflows
+- [Laravel Inventory Dashboard](https://github.com/abdul-iqbal/laravel-inventory-dashboard) — inventory and low-stock reporting
+
+## Broader Project Experience
+
+Across my career, I have delivered more than 200 software, automation, chatbot, CRM, dashboard, and workflow engagements. My experience spans finance operations, insurance and customer-support automation, multilingual logistics workflows, enterprise web platforms, regulated financial-services systems, aviation permit processing, real estate, healthcare, commerce, and mobility applications.
+
+Client source code and sensitive architecture remain private. I can discuss relevant delivery scope, system design, APIs, data models, integrations, constraints, and technical tradeoffs in an interview.
 
 ## Current Focus
 
-- Reliable AI agents with clear permissions and human escalation
-- AI-native application architecture and implementation
-- Workflow automation across CRM, ERP, inbox, scheduling, and document systems
-- Architecture artifacts, technical case studies, and production-ready demonstrations
+- Customer-facing engineering and rapid delivery for operational problems
+- Reliable AI applications with clear permissions, evaluation, and human escalation
+- Python services, APIs, data-processing workflows, and validation controls
+- Google Cloud and Vertex AI-oriented production patterns
+- Full-stack applications and integrations that remain maintainable after launch
 
 ## Connect
 
-- **Website:** [AIwithAbdul.com](https://aiwithabdul.com)
-- **Email:** [abdul@aiwithabdul.com](mailto:abdul@aiwithabdul.com)
-- **LinkedIn:** [abdul-iqbal-ai-solutions-architect](https://www.linkedin.com/in/abdul-iqbal-ai-solutions-architect/)
+- **Portfolio and services:** [AIwithAbdul.com](https://aiwithabdul.com)
+- **LinkedIn:** [linkedin.com/in/abdul-iqbal-fde](https://www.linkedin.com/in/abdul-iqbal-fde/)
+- **Email:** [abdulb2c@gmail.com](mailto:abdulb2c@gmail.com)
 - **X:** [@AbdulBuildsAI](https://x.com/AbdulBuildsAI)
 - **YouTube:** [AI With Abdul Iqbal](https://www.youtube.com/@AI-with-Abdul-iqbal)
